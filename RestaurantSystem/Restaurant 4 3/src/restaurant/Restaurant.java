@@ -1,8 +1,5 @@
 
-/*Project group 4 
-Hanan Alfadhly,Nada Alhelali,Lama Mohammad,
-Rabya Emrani,Bayan Alfahmim , Rola almadani.
-*/
+
 package restaurant;
 
 import java.util.ArrayList;
